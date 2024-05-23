@@ -28,7 +28,7 @@ Step 6: Make The format .XDELTA and start!
 
 You can use this template as your installation guide if you link to my Github profile.
 
-Step 1: Get MacOS Sneaky Sasquatch [Version number your mod is based off]. If you need to downgrade, use [Sneaky Downgrades].(https://github.com/ikyih/Sneaky_Downgrades)
+Step 1: Get MacOS Sneaky Sasquatch [Version number your mod is based off]. If you need to downgrade, use [Sneaky Downgrades](https://github.com/ikyih/Sneaky_Downgrades)
 
 Step 2: Duplicate the game.
 

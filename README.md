@@ -2,13 +2,13 @@
 
 ## Making mods
 
-Today i'm gonna tell you how to make mods!
+Today I'm gonna tell you how to make mods!
 
 Step 1: Get a windows computer (ignore how wierd this is).
 
-Step 2: Download [UABEA](https://github.com/nesrak1/UABEA) on the windows computer (and yes it doesn't work in wine).
+Step 2: Download [UABEA](https://github.com/nesrak1/UABEA) on the Windows computer (and no, it doesn't work in Wine).
 
-Step 3: Send your copy of Sneaky Sasquatch to the windows computer.
+Step 3: Send your copy of Sneaky Sasquatch to the Windows computer.
 
 Step 4: Open and mess with any of the files at /Sasquatch.app/Contents/Resources/Data/ in UABEA.
 
@@ -16,23 +16,23 @@ Step 4: Open and mess with any of the files at /Sasquatch.app/Contents/Resources
 
 Step 1: Download [MultiPatch](https://www.romhacking.net/utilities/746).
 
-Step 2: In Multipatch open creator mode.
+Step 2: In Multipatch, open creator mode.
 
 Step 3: Make a Zip of your modded resources folder.
 
 Step 4: Make a zip of the Unmodded resources folder
 
-Step 5: Select the original unmodded zip as the original file and your modded zip as the modified file in Multipatch.
+Step 5: Select the original unmodded zip as the original file, and your modded zip as the modified file in Multipatch.
 
 Step 6: Make The format .XDELTA and start!
 
-You can use this template as your installation guide if you link my github profile.
+You can use this template as your installation guide if you link to my Github profile.
 
-Step 1: Get MacOS Sneaky Sasquatch [Version number your mod is based off]. If you need to downgrade use [Sneaky Downgrades].(https://github.com/ikyih/Sneaky_Downgrades)
+Step 1: Get MacOS Sneaky Sasquatch [Version number your mod is based off]. If you need to downgrade, use [Sneaky Downgrades].(https://github.com/ikyih/Sneaky_Downgrades)
 
 Step 2: Duplicate the game.
 
-Step 3: Right click on the duplicate and select Show package contents.
+Step 3: Right click on the duplicate, and select "Show package contents."
 
 Step 4: Make a zip of the resources folder.
 
@@ -40,11 +40,11 @@ Step 5: Download [Deltapatcher](https://github.com/marco-calautti/DeltaPatcher/r
 
 Step 6: Download [FILENAME].delta from the releases page.
 
-Step 7: Open One of those programs. In one of them select the patch.delta as the patch and your resources.zip as the file.
+Step 7: Open one of those programs. In one of them, select the [FILENAME].delta as the patch and your resources.zip as the file.
 
 Step 8: Turn off checksum validation in the programs settings.
 
-Step 9: Press start.
+Step 9: Press Start.
 
 Step 10: Unzip the patched file.
 
